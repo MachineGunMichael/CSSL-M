@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "RgDJx1TXdRcNY1tOfgau8n+kFhy6p2Ux0HHFaJIoZKqSiY7xzL+Q9fGTx/4fmOA9n9lGzVFRutZif8EF0vV8Kw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\nx006292\\source\\repos\\CSSL_M2\\CSSL_WebAPI\\CSSL_WebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nx006292\\.nuget\\packages\\microsoft.ml.onnxruntime\\1.14.1\\microsoft.ml.onnxruntime.1.14.1.nupkg.sha512",
+    "C:\\Users\\nx006292\\.nuget\\packages\\microsoft.ml.onnxruntime.managed\\1.13.1\\microsoft.ml.onnxruntime.managed.1.13.1.nupkg.sha512",
+    "C:\\Users\\nx006292\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\nx006292\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512",
+    "C:\\Users\\nx006292\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\nx006292\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\nx006292\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\nx006292\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Error",
+      "message": "Warning As Error: Detected package downgrade: Microsoft.ML.OnnxRuntime.Managed from 1.14.1 to 1.13.1. Reference the package directly from the project to select a different version. \r\n CSSL_WebAPI -> CSSL -> Microsoft.ML.OnnxRuntime 1.14.1 -> Microsoft.ML.OnnxRuntime.Managed (>= 1.14.1) \r\n CSSL_WebAPI -> Microsoft.ML.OnnxRuntime.Managed (>= 1.13.1)",
+      "libraryId": "Microsoft.ML.OnnxRuntime.Managed",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

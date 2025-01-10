@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "fsaYFzdgbJlKZSSLxc1omulVvTHwABA9fe3rDfI5AsX7FHjUylsexRB3Vk0xMKAHZc3KLKUteMmhu7sdRb+CFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nx006292\\source\\repos\\CSSL_M2\\CSSL\\CSSL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nx006292\\.nuget\\packages\\microsoft.ml.onnxruntime\\1.14.1\\microsoft.ml.onnxruntime.1.14.1.nupkg.sha512",
+    "C:\\Users\\nx006292\\.nuget\\packages\\microsoft.ml.onnxruntime.managed\\1.14.1\\microsoft.ml.onnxruntime.managed.1.14.1.nupkg.sha512",
+    "C:\\Users\\nx006292\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\nx006292\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512",
+    "C:\\Users\\nx006292\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\nx006292\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\nx006292\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\nx006292\source\repos\CSSL_M2\CSSL\bin\Debug\net6.0\onnxruntime_providers_shared.dll
+C:\Users\nx006292\source\repos\CSSL_M2\CSSL\bin\Debug\net6.0\CSSL.deps.json
+C:\Users\nx006292\source\repos\CSSL_M2\CSSL\bin\Debug\net6.0\CSSL.dll
+C:\Users\nx006292\source\repos\CSSL_M2\CSSL\bin\Debug\net6.0\CSSL.pdb
+C:\Users\nx006292\source\repos\CSSL_M2\CSSL\obj\Debug\net6.0\CSSL.csproj.AssemblyReference.cache
+C:\Users\nx006292\source\repos\CSSL_M2\CSSL\obj\Debug\net6.0\CSSL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nx006292\source\repos\CSSL_M2\CSSL\obj\Debug\net6.0\CSSL.AssemblyInfoInputs.cache
+C:\Users\nx006292\source\repos\CSSL_M2\CSSL\obj\Debug\net6.0\CSSL.AssemblyInfo.cs
+C:\Users\nx006292\source\repos\CSSL_M2\CSSL\obj\Debug\net6.0\CSSL.csproj.CoreCompileInputs.cache
+C:\Users\nx006292\source\repos\CSSL_M2\CSSL\obj\Debug\net6.0\CSSL.dll
+C:\Users\nx006292\source\repos\CSSL_M2\CSSL\obj\Debug\net6.0\refint\CSSL.dll
+C:\Users\nx006292\source\repos\CSSL_M2\CSSL\obj\Debug\net6.0\CSSL.pdb
+C:\Users\nx006292\source\repos\CSSL_M2\CSSL\obj\Debug\net6.0\ref\CSSL.dll

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "97690ec6-7979-4f2e-82c0-bcaf1e7ff916": {
+      "ProjectGuid": "97690ec6-7979-4f2e-82c0-bcaf1e7ff916",
+      "DisplayName": "CSSL",
+      "ColorIndex": 0
+    },
+    "bd7695c9-0905-4481-bdac-f422356354a5": {
+      "ProjectGuid": "bd7695c9-0905-4481-bdac-f422356354a5",
+      "DisplayName": "AccessControllerExample",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

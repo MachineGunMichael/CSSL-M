@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "A52UJRma2KUDQsQmKzpwV8pStyFYQINcbjDcdxQOmyQ=",
+  "Source": "CSSL_WebAPI",
+  "BasePath": "_content/CSSL_WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
